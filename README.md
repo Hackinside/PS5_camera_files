@@ -16,5 +16,7 @@ https://github.com/psxdev/OrbisEyeCam
 
 https://github.com/prosperodev/hdcamera
 
+https://www.psxhax.com/threads/ps5-hd-camera-firmware-files-dump-and-playstation-5-camera-on-pc.10117/
+
 # Credits 
 Special thank to @psxdev his coleagues @frangar, @fjtrujy
