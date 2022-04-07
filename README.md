@@ -1,6 +1,7 @@
 # Updates:
 
-07/04/2022: New updated installer added: libusbk updated 3.0.7 > 3.1.0
+07/04/2022:   New updated installer added: libusbk updated 3.0.7 > 3.1.0
+              Use file OV580 USB Camera updated.exe for new driver installation.
 
 # Instructions:
 
