@@ -1,5 +1,8 @@
 # Updates:
 
+08/05/2024:   A new firmware has been added to fix the dark video output. Thanks to [PavlikBender](https://github.com/PavlikBender) for reporting it and [Макаров Алексей](https://github.com/Lightbass) for editing the firmware.
+              Original post: [Dark Video Output on PS5 Camera issue #10 ](https://github.com/psxdev/OrbisEyeCam/issues/10)
+
 07/04/2022:   New updated installer added: libusbk updated 3.0.7 > 3.1.0
               Use file OV580 USB Camera updated.exe for new driver installation.
 
@@ -23,4 +26,4 @@ https://github.com/prosperodev/hdcamera
 https://www.psxhax.com/threads/ps5-hd-camera-firmware-files-dump-and-playstation-5-camera-on-pc.10117/
 
 # Credits 
-Special thank to @psxdev his coleagues @frangar, @fjtrujy
+Special thank to @psxdev his colleagues @frangar, @fjtrujy
