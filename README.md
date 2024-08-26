@@ -1,5 +1,13 @@
 # Updates:
 
+26/08/2024:   If you're still encountering problems with dark or no video from your PS5 camera,
+ consider using the PS5 Camera Tweaker created by @PavlikBender  ---> [PS5 Camera Tweaker](https://github.com/PavlikBender)
+ 
+ 
+ ![App](https://github.com/user-attachments/assets/5ad6bea1-aede-4d9b-b7d4-1d4cedd78785)
+
+
+
 08/05/2024:   A new firmware has been added to fix the dark video output. Thanks to [PavlikBender](https://github.com/PavlikBender) for reporting it and [Макаров Алексей](https://github.com/Lightbass) for editing the firmware.
               Original post: [Dark Video Output on PS5 Camera issue #10 ](https://github.com/psxdev/OrbisEyeCam/issues/10)
 
