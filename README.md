@@ -7,7 +7,7 @@ This repository provides the necessary files and instructions to use the Sony Pl
 # Updates
 
 * **26/08/2024:**
-    * If you experience dark/no video, try the **PS5 Camera Tweaker** by @PavlikBender: [PavlikBender/PS5-Camera-Tweaker](https://github.com/PavlikBender/PS5-Camera-Tweaker)
+    * If you experience dark/no video, try the **PS5 Camera Tweaker** by @PavlikBender: [PavlikBender/PS5CameraTweaker](https://github.com/PavlikBender/PS5CameraTweaker)
     * ![PS5 Camera Tweaker App](https://github.com/user-attachments/assets/5ad6bea1-aede-4d9b-b7d4-1d4cedd78785)
 * **08/05/2024:**
     * Added new firmware (`firmware_fix.bin`) to address dark video output issues.
