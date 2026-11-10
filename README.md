@@ -93,3 +93,7 @@ This work builds upon the efforts of the following projects and individuals:
 # Credits
 
 Special thanks to @psxdev and colleagues @frangar & @fjtrujy for their foundational work. Thanks also to @PavlikBender and @Lightbass for recent firmware contributions.
+
+### Optional Windows capture bridge
+
+For live tone adjustment and virtual camera output, see the [Windows capture bridge](windows-camera-bridge/README.md).
